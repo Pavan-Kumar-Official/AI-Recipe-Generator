@@ -1,5 +1,6 @@
 
 # AI Recipe Generator 🍳
+Preview Video - https://www.linkedin.com/posts/pavankumarofficialcareers_ai-webdevelopment-opensource-activity-7368312929676361728-WX6V?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEmg1F0BwC1R4bCpUxVKCJMSZzBizU6bHOY
 
 A beautiful, modern web application that generates delicious recipes using AI based on your available ingredients, meal preferences, and dietary restrictions.
 
